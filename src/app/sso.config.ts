@@ -1,6 +1,7 @@
 import { AuthConfig } from 'angular-oauth2-oidc';
 
 export const authConfig: AuthConfig = {
+ //Ejemplo Guia autemticar funciona solo local localhost:puertp
 
   // Url of the Identity Provider
   issuer: 'https://steyer-identity-server.azurewebsites.net/identity',
